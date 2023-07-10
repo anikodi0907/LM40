@@ -21,17 +21,26 @@ You will need **15** M2x5mm (3.5mm diameter) heated inserts.
 After the heated inserts, screw in the badge and daughterboard.
 
 The bottom case should look like this.
+![](https://github.com/anikodi0907/LM40/blob/main/Pictures/IMG-2584.jpg)
 
 ## 2-PCB plate assembly.
 Build the plate and pcb how you normaly would with any keyboard.
 Then screw on the 6 points on the plate to the mounting points on the top case.
 It should look like this.
+![](https://github.com/anikodi0907/LM40/blob/main/Pictures/IMG-2583.jpg)
+
+## Firmware
+The firmware is available [here](https://github.com/anikodi0907/LM40/tree/main/QMK%20stuff)
+Flash the pcb using QMK toolbox.
+There is a reset button on the back.
 
 ## Case assembly.
 
-INCOMPLETE
+Keep the top case aseembly facing down and keep the bottom on top of it and screw in the 7 screws.
 
+Dont forget to plug in the JST connector from the daughterboard!
 
-
+At the end, your keyboard should look like this
+![](https://github.com/anikodi0907/LM40/blob/main/Pictures/IMG-2585.jpg)
 
 
