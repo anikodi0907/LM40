@@ -1,5 +1,8 @@
 # About LM40
-LM40 is a 45-50% arisu/alice style layout. It offers the best of ergonomics and the compact form factor
+LM40 is a 45-50% arisu/alice style keyboard. It offers the best of ergonomics and compact form factor
+
+![](https://github.com/anikodi0907/LM40/blob/main/Pictures/IMG-2585.jpg)
+
 ## Case
 I wanted to keep the design fairly simple while looking good at the same time.
 
@@ -22,3 +25,9 @@ The mcu will be embedded into the pcb and it'll be using Atmega 32u4 and it is d
 
 Thanks to ani and the emperor for helping me with the design and pcb.
 
+
+Back
+![](https://github.com/anikodi0907/LM40/blob/main/Pictures/IMG-2587.jpg)
+
+Side profile
+![](https://github.com/anikodi0907/LM40/blob/main/Pictures/IMG-2586.jpg)
